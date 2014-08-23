@@ -1,0 +1,14 @@
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\ShoppingCart.dll.config
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\ShoppingCart.dll
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\ShoppingCart.pdb
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\Newtonsoft.Json.dll
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\System.Net.Http.Formatting.dll
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\System.Web.Http.dll
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\System.Web.Http.WebHost.dll
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\Newtonsoft.Json.xml
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\System.Net.Http.Formatting.xml
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\System.Web.Http.xml
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\System.Web.Http.WebHost.xml
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\obj\Release\ShoppingCartServices.csprojResolveAssemblyReference.cache
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\obj\Release\ShoppingCart.dll
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\obj\Release\ShoppingCart.pdb
