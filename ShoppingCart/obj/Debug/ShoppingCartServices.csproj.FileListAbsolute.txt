@@ -11,3 +11,4 @@ C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\System.Web.
 C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\bin\System.Web.Http.WebHost.xml
 C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\obj\Debug\ShoppingCart.dll
 C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\obj\Debug\ShoppingCart.pdb
+C:\Users\Jason\Source\Repos\shopping-csharp-dot-net\ShoppingCart\obj\Debug\ShoppingCartServices.csprojResolveAssemblyReference.cache

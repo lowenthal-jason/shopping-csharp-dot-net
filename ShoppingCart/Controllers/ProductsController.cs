@@ -31,14 +31,5 @@ namespace ProductsApp.Controllers
             return Ok(product);
         }
 
-        public IHttpActionResult GetProduct(string name)
-        {
-            var product = products.FirstOrDefault((p) => p.Name.ToLower() == name.ToLower());
-            if (product == null)
-            {
-                return NotFound();
-            }
-            return Ok(product);
-        }
     }
 }
